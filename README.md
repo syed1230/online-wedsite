@@ -118,19 +118,16 @@ header {
     <p>🎃💀 Get ready for a night of pure terror! 🕸️🕷️ As the full moon 🌕 rises and the witching hour ⏳ approaches, the air grows thick with dangerous magic 🧙‍♀️✨ and eerie whispers 🗣️. The darkness 🖤 is alive with creatures of the night 🧛‍♂️🧟‍♀️, shadows that creep 👀, and haunted souls 🕯️ calling your name.The zombies 🧟‍♂️ are hungry, the vampires 🧛‍♀️ are thirsty, and ghosts 👻 are looking for their next victim... Could it be YOU? 😱🔪 Grim reapers ⚰️ are ready to collect their souls, and monsters 👹 are lurking in every corner, waiting to pounce! 💥💀Expect spells ✨🔮 that could send shivers down your spine, curses 🕷️ that could turn your worst nightmares into reality, and a night full of haunting thrills 🕸️🎭. Will you survive the terror, or will you be lost forever in the darkness? 🖤💀💀Don’t miss out on this deadly celebration—come dressed in your spookiest costume and face the nightmare that awaits! 🎉😈🕯️</p>
 </div>
 <div class="row">
-    
         <div class="card">
             <img src="https://static.wixstatic.com/media/715ab3_f59321bc1d934d84a58fda3d567626b7~mv2.jpg/v1/fill/w_548,h_315,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/miqst_a_photo_of_a_man_in_a_costume_for_.jpg" alt="Halloween Costume Collection">
             <h2>Halloween Costume Collection</h2>
             <p>Explore our extensive collection of Halloween costumes and accessories that will take your party look to the next level.</p>
         </div>
-
         <div class="card">
             <img src="https://static.wixstatic.com/media/715ab3_e378cfafc1ab40c1ab70c5864ec3feb9~mv2.jpg/v1/fill/w_548,h_315,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/GreekW_edited.jpg" alt="Thrilling Dance Off">
             <h2>Thrilling Dance Off</h2>
             <p>Get your groove on at our thrilling dance-off. Show off your best moves and win exciting prizes.</p>
         </div>
-
         <div class="card">
             <img src="https://static.wixstatic.com/media/715ab3_1cf6880c9d0148f4ba607447e3d1ca8a~mv2.jpg/v1/fill/w_554,h_315,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/715ab3_1cf6880c9d0148f4ba607447e3d1ca8a~mv2.jpg" alt="Fire and Fury">
             <h2>Fire and Fury</h2>
