@@ -92,3 +92,20 @@ This animated preview gives recruiters instant visual proof of your work.
 ---
 
 ## 📂 Project Structure
+
+online-wedsite/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── demo.gif
+│
+└── README.md
